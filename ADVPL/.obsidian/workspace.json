@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "add2a0cf2907d138",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7109dcda57bdfdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f116a4e596f1cbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos/Banco/MsSeek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940364f2916b63f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos/Banco/MsSeek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8f5f97ef34894e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc9bf4bd77a83d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca8c4437c87aa09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4324dd425d4cb0e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Anotacoes/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "051fc6db8c9c5783",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "0449402cdad5736e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0504d2537e2c866c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2ba05c992eb0c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Metodos/Banco/MsSeek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb6245eb430202d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Metodos/Banco/MsSeek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6042740a593d2e6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f83b0f03a5296ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Metodos/Banco/MsSeek.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4324dd425d4cb0e5",
+  "lastOpenFiles": [
+    "Metodos/Banco/FWxFilial.md",
+    "Metodos/Banco/MsSeek.md",
+    "Metodos/Banco/DBGoBottom.md",
+    "Metodos/Banco/MsUnlock.md",
+    "Metodos/Banco/MPSysOpenQuery.md",
+    "Metodos/Banco/DBGoTop.md",
+    "Metodos/Banco/DBSelectArea.md",
+    "Metodos/Banco/DBCloseArea.md",
+    "Metodos/Banco/ChkFile().md",
+    "Metodos/Banco/RetSqlName.md",
+    "Metodos/Banco/RecLock.md",
+    "Metodos/Char/STRTRAN.md",
+    "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Radio.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Combo Box.md",
+    "Metodos/Char/Space.md",
+    "Metodos/Char/SUBSTR.md",
+    "Metodos/Char/AllTrim.md",
+    "Metodos/Char/LTRIM.md",
+    "Metodos/Char/RTRIM.md",
+    "RTRIM.md",
+    "Metodos/Char/AllToChar.md",
+    "Metodos/Sem título.md",
+    "Metodos/Char/Separa.md",
+    "Metodos/Char/CRLF.md",
+    "zImages/Pasted image 20240219122105.png",
+    "zImages/Pasted image 20240219122051.png",
+    "zImages/Pasted image 20240219122039.png",
+    "zImages/Pasted image 20240219122028.png",
+    "zImages/Pasted image 20240219122007.png",
+    "zImages/Pasted image 20240219121948.png",
+    "zImages/Pasted image 20240219121900.png",
+    "zImages/Pasted image 20240219121856.png",
+    "zImages/Pasted image 20240219121854.png",
+    "Metodos/Caixa De Diálogo",
+    "zImages/Pasted image 20240216103312.png",
+    "Exemplos/Exemplo ParamBox/Inputs",
+    "Exemplos/Exemplo ParamBox",
+    "zImages",
+    "Metodos/Outros",
+    "Anotacoes/Bloco de código",
+    "Metodos/Bloco de Código",
+    "Sem título.canvas",
+    "Anotacoes/Function",
+    "Anotacoes/Lógicos",
+    "Metodos/Boolean"
+  ]
+}
