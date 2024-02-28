@@ -5,6 +5,7 @@
 # Resumo:
 Retorna a referência ao nível de compartilhamento da tabela que está a ser consultada e a filial logada pelo usuário
 
+É exatamente igual ao xFilial() porém o FWxFilial() recebe atualizações.
 
 # Exemplo:
 
