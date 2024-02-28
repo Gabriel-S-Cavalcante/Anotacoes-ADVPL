@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7109dcda57bdfdd",
+        "id": "386e495e4f160f35",
         "type": "tabs",
         "children": [
           {
-            "id": "f116a4e596f1cbb2",
+            "id": "48e5fdc4beff709b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos/Banco/RecLock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "940364f2916b63f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metodos/Banco/MsSeek.md",
+                "file": "Metodos/Array/DiffArray.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodos/Banco/RecLock.md",
+                "file": "Metodos/Array/DiffArray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodos/Banco/RecLock.md",
+                "file": "Metodos/Array/DiffArray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodos/Banco/RecLock.md"
+                "file": "Metodos/Array/DiffArray.md"
               }
             }
           }
@@ -158,34 +146,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f116a4e596f1cbb2",
+  "active": "48e5fdc4beff709b",
   "lastOpenFiles": [
-    "Metodos/Banco/MsUnlock.md",
-    "Metodos/Banco/MsSeek.md",
-    "Metodos/Banco/FWxFilial.md",
-    "Metodos/Banco/DBGoBottom.md",
-    "Metodos/Banco/MPSysOpenQuery.md",
-    "Metodos/Banco/DBGoTop.md",
-    "Metodos/Banco/DBSelectArea.md",
-    "Metodos/Banco/DBCloseArea.md",
-    "Metodos/Banco/ChkFile().md",
-    "Metodos/Banco/RetSqlName.md",
-    "Metodos/Banco/RecLock.md",
-    "Metodos/Char/STRTRAN.md",
-    "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
-    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Radio.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Combo Box.md",
-    "Metodos/Char/Space.md",
+    "Metodos/Array/aSort.md",
+    "Metodos/Array/DiffArray.md",
+    "Metodos/Array/aFill.md",
+    "Anotacoes/Operadores/$.md",
     "Metodos/Char/SUBSTR.md",
-    "Metodos/Char/AllTrim.md",
-    "Metodos/Char/LTRIM.md",
-    "Metodos/Char/RTRIM.md",
-    "RTRIM.md",
-    "Metodos/Char/AllToChar.md",
-    "Metodos/Sem título.md",
+    "Anotacoes/Laços/For.md",
+    "Anotacoes/Laços",
+    "Anotacoes/Bloco de código/Bloco de código.md",
+    "Anotacoes/Function/parametro.md",
+    "Anotacoes/Function/User Function.md",
+    "Anotacoes/Function/Static Function.md",
+    "arquivos/Tipos de arquivos/SXA.md",
+    "arquivos/Tipos de arquivos/SX6.md",
+    "arquivos/Tipos de arquivos/SX1.md",
+    "arquivos/Tipos de arquivos/Arquivo.PRX.md",
+    "arquivos/Tipos de arquivos/Arquivo.PRW.md",
+    "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+    "Exemplos/Bloco de código.md",
+    "Exemplos/Funções de Data.md",
     "Metodos/Char/Separa.md",
-    "Metodos/Char/CRLF.md",
+    "Metodos/Array/aSize.md",
+    "Metodos/Array/aIns.md",
+    "Metodos/Banco/MsSeek.md",
+    "Metodos/Caixa De Diálogo/Parambox.md",
+    "Metodos/Caixa De Diálogo/Pergunte.md",
+    "Metodos/Caixa De Diálogo/MessageBox.md",
+    "Metodos/Caixa De Diálogo/FWAlertInfo.md",
+    "Anotacoes/Operadores",
     "zImages/Pasted image 20240219122105.png",
     "zImages/Pasted image 20240219122051.png",
     "zImages/Pasted image 20240219122039.png",
@@ -204,8 +194,6 @@
     "Anotacoes/Bloco de código",
     "Metodos/Bloco de Código",
     "Sem título.canvas",
-    "Anotacoes/Function",
-    "Anotacoes/Lógicos",
-    "Metodos/Boolean"
+    "Anotacoes/Function"
   ]
 }

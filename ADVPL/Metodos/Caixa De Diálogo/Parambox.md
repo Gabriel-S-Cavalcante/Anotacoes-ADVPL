@@ -27,25 +27,25 @@ Existem mais parâmetros que podem ser passados ao ParamBox para uma maior flexi
 Parâmetros da função Parambox()
 -------------------------------
 01 - < aParametros > - Vetor com as configurações 
-02 - < cTitle >      - Titulo da Janela
-03 - < aRet >        - Vetor passador por referência que contém o retorno dos parâmetros
-04 - < bOk >         - Code Block para validar o Botão OK
-05 - < aButtons >    - Vetor com mais botões além dos botões de Ok e Cancel
-06 - < lCentered >   - Centralizar a janela
-07 - < nPosX >       - Se não centralizar janela coordenada X para início
-08 - < nPosY >       - Se não centralizar janela coordenada Y para início
+02 - < cTitle >            - Titulo da Janela
+03 - < aRet >             - Vetor passador por referência que contém o retorno dos parâmetros
+04 - < bOk >             - Code Block para validar o Botão OK
+05 - < aButtons >      - Vetor com mais botões além dos botões de Ok e Cancel
+06 - < lCentered >     - Centralizar a janela
+07 - < nPosX >           - Se não centralizar janela coordenada X para início
+08 - < nPosY >           - Se não centralizar janela coordenada Y para início
 09 - < oDlgWizard >  - Utiliza o objeto da janela ativa
-10 - < cLoad >       - Nome do perfil se caso for carregar
-11 - < lCanSave >    - Salvar os dados informados nos parâmetros por perfil
-12 - < lUserSave >   - Configuração por usuário
+10 - < cLoad >           - Nome do perfil se caso for carregar
+11 - < lCanSave >      - Salvar os dados informados nos parâmetros por perfil
+12 - < lUserSave >     - Configuração por usuário
 
 Caso alguns parâmetros para a função não seja passada será cosiderado DEFAULT as seguintes abaixo:
-DEFAULT bOK          := {|| (.T.)}
-DEFAULT aButtons     := {}
+DEFAULT bOK             := {|| (.T.)}
+DEFAULT aButtons      := {}
 DEFAULT lCentered    := .T.
-DEFAULT nPosX        := 0
-DEFAULT nPosY        := 0
-DEFAULT cLoad        := ProcName(1)
+DEFAULT nPosX          := 0
+DEFAULT nPosY          := 0
+DEFAULT cLoad          := ProcName(1)
 DEFAULT lCanSave     := .T.
 DEFAULT lUserSave    := .F.
 
