@@ -19,4 +19,4 @@ Tem o atributo de criar a tabela se ela não existir.
 
 
 Método similar:
-[[ChkFile()]]
+[[ChkFile]]

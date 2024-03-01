@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "386e495e4f160f35",
+        "id": "114b5e2ead854ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "48e5fdc4beff709b",
+            "id": "3ccc3a7b985f5639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos/Array/DiffArray.md",
+                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodos/Array/DiffArray.md",
+                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodos/Array/DiffArray.md",
+                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metodos/Array/DiffArray.md"
+                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md"
               }
             }
           }
@@ -146,47 +146,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "48e5fdc4beff709b",
+  "active": "eca8c4437c87aa09",
   "lastOpenFiles": [
-    "Metodos/Array/aSort.md",
-    "Metodos/Array/DiffArray.md",
-    "Metodos/Array/aFill.md",
-    "Anotacoes/Operadores/$.md",
-    "Metodos/Char/SUBSTR.md",
-    "Anotacoes/Laços/For.md",
-    "Anotacoes/Laços",
-    "Anotacoes/Bloco de código/Bloco de código.md",
-    "Anotacoes/Function/parametro.md",
-    "Anotacoes/Function/User Function.md",
-    "Anotacoes/Function/Static Function.md",
-    "arquivos/Tipos de arquivos/SXA.md",
-    "arquivos/Tipos de arquivos/SX6.md",
-    "arquivos/Tipos de arquivos/SX1.md",
-    "arquivos/Tipos de arquivos/Arquivo.PRX.md",
-    "arquivos/Tipos de arquivos/Arquivo.PRW.md",
+    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
     "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
-    "Exemplos/Bloco de código.md",
-    "Exemplos/Funções de Data.md",
-    "Metodos/Char/Separa.md",
-    "Metodos/Array/aSize.md",
-    "Metodos/Array/aIns.md",
-    "Metodos/Banco/MsSeek.md",
-    "Metodos/Caixa De Diálogo/Parambox.md",
-    "Metodos/Caixa De Diálogo/Pergunte.md",
-    "Metodos/Caixa De Diálogo/MessageBox.md",
-    "Metodos/Caixa De Diálogo/FWAlertInfo.md",
+    "Exemplos/Exemplo ParamBox/Inputs/MultiGet.md",
+    "zImages/Pasted image 20240301121920.png",
+    "Exemplos/Exemplo ParamBox/Inputs/Range de busca.md",
+    "zImages/Pasted image 20240301120908.png",
+    "Exemplos/Exemplo ParamBox/Inputs/Checkbox.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Combo Box.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Mensagem.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Montagem de expressao de filtro.md",
+    "Exemplos/Exemplo ParamBox/Inputs/MsGet password.md",
+    "Anotacoes/Lógicos/'.T.'.md",
+    "zImages/Pasted image 20240301114455.png",
+    "zImages/Pasted image 20240301113657.png",
+    "zImages/Pasted image 20240301113252.png",
+    "zImages/Pasted image 20240301112223.png",
+    "Exemplos/Exemplo ParamBox/Inputs/Say + Checkbox.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Radio.md",
+    "Exemplos/Exemplo ParamBox/Inputs/Arquivo.md",
+    "zImages/Pasted image 20240301110244.png",
+    "zImages/Pasted image 20240301105304.png",
+    "zImages/Pasted image 20240301104605.png",
+    "zImages/Pasted image 20240301101450.png",
+    "Anotacoes/Lógicos/'.F.'.md",
+    "arquivos/Tipos de arquivos/Arquivo.PRW.md",
+    "Anotacoes/Lógicos/'.And.'.md",
+    "Anotacoes/Laços/For.md",
+    "Anotacoes/Function/parametro.md",
+    "Anotacoes/Function/Static Function.md",
+    "Anotacoes/Bloco de código/Bloco de código.md",
+    "Anotacoes/Lógicos/nil.md",
+    "Anotacoes/Lógicos/$.md",
+    "Metodos/Banco/MPSysOpenQuery.md",
+    "Metodos/Banco/DBSelectArea.md",
+    "Metodos/Banco/RetSqlName.md",
+    "Anotacoes/Laços",
     "Anotacoes/Operadores",
-    "zImages/Pasted image 20240219122105.png",
-    "zImages/Pasted image 20240219122051.png",
-    "zImages/Pasted image 20240219122039.png",
-    "zImages/Pasted image 20240219122028.png",
-    "zImages/Pasted image 20240219122007.png",
-    "zImages/Pasted image 20240219121948.png",
-    "zImages/Pasted image 20240219121900.png",
-    "zImages/Pasted image 20240219121856.png",
-    "zImages/Pasted image 20240219121854.png",
     "Metodos/Caixa De Diálogo",
-    "zImages/Pasted image 20240216103312.png",
     "Exemplos/Exemplo ParamBox/Inputs",
     "Exemplos/Exemplo ParamBox",
     "zImages",
