@@ -17,13 +17,13 @@
 [10]-Diretorio inicial do cGetFIle
 [11]-Número relativo a visualização, podendo ser por diretório ou por arquivo (0,1,2,4,8,16,32,64,128)
 
-[[aAdd]](aPergs, {6, "Informe o arquivo:", "", "", "", "", 80, [.F.]('.F.'), "Arquivo .CSV |* .CSV", "", GETF_LOCALHARD+GETF_NETWORKDRIVE})
+[[aAdd]](aPergs, {6, "Informe o arquivo:", "", "", "", "", 80, [.F.]('.F.'), "Arquivo .CSV |* .CSV", "", [[GETF_LOCALHARD+GETF_NETWORKDRIVE]]})
 
 # Uso:
 Local aPergs         := {}
 Local aResps         := {}
 
-[[aAdd]](aPergs, {6, "Informe o arquivo:", "", "", "", "", 80, [.F.]('.F.'), "Arquivo .xlsx |* .xlsx", "", GETF_LOCALHARD+GETF_NETWORKDRIVE})
+[[aAdd]](aPergs, {6, "Informe o arquivo:", "", "", "", "", 80, [.F.]('.F.'), "Arquivo .TXT |\*.TXT", "", [GETF_LOCALHARD+GETF_NETWORKDRIVE]})
 
 Seus parâmetros de configuração devem ser passados dentro do [[array]] aPergs.
 E as respostas virão no [[array]] aResps

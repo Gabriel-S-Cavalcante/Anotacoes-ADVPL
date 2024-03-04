@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#arquiivo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md"
+                "file": "Metodos/CMD - Power Shell/ShellExecute.md"
               }
             }
           }
@@ -146,10 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eca8c4437c87aa09",
+  "active": "3ccc3a7b985f5639",
   "lastOpenFiles": [
-    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
+    "Metodos/Arquivo/fWrite.md",
+    "Metodos/CMD - Power Shell/ShellExecute.md",
+    "Metodos/Arquivo/ft_fUse.md",
+    "Metodos/Arquivo/ft_fEOF.md",
+    "Metodos/Arquivo/fCreate.md",
+    "Metodos/Diretório/ExistDir.md",
+    "Metodos/Diretório/MakeDir.md",
+    "Metodos/Diretório/Nota_caminho_hard-coded.md",
+    "Metodos/Arquivo/ft_fSkip.md",
+    "Metodos/Arquivo/fClose.md",
+    "Metodos/Arquivo/ft_FReadLn.md",
+    "Metodos/Data/AnoMes.md",
+    "Sem título.md",
+    "Metodos/Diretório",
+    "Exemplos/Exemplo ParamBox/Inputs/Arquivo.md",
+    "Metodos/Arquivo",
+    "Metodos/Sem título.md",
+    "Exemplos/Exemplo ParamBox/Infos/GETF_LOCALHARD+GETF_NETWORKDRIVE.md",
+    "Exemplos/Exemplo ParamBox/Infos",
     "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
     "Exemplos/Exemplo ParamBox/Inputs/MultiGet.md",
     "zImages/Pasted image 20240301121920.png",
     "Exemplos/Exemplo ParamBox/Inputs/Range de busca.md",
@@ -164,35 +183,17 @@
     "zImages/Pasted image 20240301113657.png",
     "zImages/Pasted image 20240301113252.png",
     "zImages/Pasted image 20240301112223.png",
-    "Exemplos/Exemplo ParamBox/Inputs/Say + Checkbox.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Radio.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Arquivo.md",
     "zImages/Pasted image 20240301110244.png",
     "zImages/Pasted image 20240301105304.png",
     "zImages/Pasted image 20240301104605.png",
     "zImages/Pasted image 20240301101450.png",
-    "Anotacoes/Lógicos/'.F.'.md",
-    "arquivos/Tipos de arquivos/Arquivo.PRW.md",
-    "Anotacoes/Lógicos/'.And.'.md",
-    "Anotacoes/Laços/For.md",
-    "Anotacoes/Function/parametro.md",
-    "Anotacoes/Function/Static Function.md",
-    "Anotacoes/Bloco de código/Bloco de código.md",
-    "Anotacoes/Lógicos/nil.md",
-    "Anotacoes/Lógicos/$.md",
-    "Metodos/Banco/MPSysOpenQuery.md",
-    "Metodos/Banco/DBSelectArea.md",
-    "Metodos/Banco/RetSqlName.md",
     "Anotacoes/Laços",
     "Anotacoes/Operadores",
     "Metodos/Caixa De Diálogo",
     "Exemplos/Exemplo ParamBox/Inputs",
     "Exemplos/Exemplo ParamBox",
     "zImages",
-    "Metodos/Outros",
-    "Anotacoes/Bloco de código",
-    "Metodos/Bloco de Código",
-    "Sem título.canvas",
-    "Anotacoes/Function"
+    "Metodos/CMD - Power Shell",
+    "Sem título.canvas"
   ]
 }
