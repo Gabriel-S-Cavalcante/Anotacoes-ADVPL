@@ -3,7 +3,5 @@
 
 
 
-
-
 # Resumo:
-Tabela de Naturezas
+Tabela de Natureza financeira

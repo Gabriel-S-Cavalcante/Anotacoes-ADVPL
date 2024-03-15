@@ -2,8 +2,6 @@
 
 
 
-
-
 # Resumo:
 Cabeçalho do pedido de vendas
 

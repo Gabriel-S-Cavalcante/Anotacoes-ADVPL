@@ -3,6 +3,5 @@
 
 
 
-
 # Resumo:
 Liberação do pedido de vendas (Análise de crédito)

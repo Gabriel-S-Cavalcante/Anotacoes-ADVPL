@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "114b5e2ead854ef2",
+        "id": "ebf3ef13b321ba67",
         "type": "tabs",
         "children": [
           {
-            "id": "3ccc3a7b985f5639",
+            "id": "1f62baa752c37632",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#arquiivo",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodos/CMD - Power Shell/ShellExecute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Metodos/CMD - Power Shell/ShellExecute.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,39 +138,42 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ccc3a7b985f5639",
+  "active": "1f62baa752c37632",
   "lastOpenFiles": [
-    "Metodos/Arquivo/fWrite.md",
-    "Metodos/CMD - Power Shell/ShellExecute.md",
-    "Metodos/Arquivo/ft_fUse.md",
-    "Metodos/Arquivo/ft_fEOF.md",
-    "Metodos/Arquivo/fCreate.md",
-    "Metodos/Diretório/ExistDir.md",
-    "Metodos/Diretório/MakeDir.md",
-    "Metodos/Diretório/Nota_caminho_hard-coded.md",
-    "Metodos/Arquivo/ft_fSkip.md",
-    "Metodos/Arquivo/fClose.md",
-    "Metodos/Arquivo/ft_FReadLn.md",
-    "Metodos/Data/AnoMes.md",
-    "Sem título.md",
-    "Metodos/Diretório",
-    "Exemplos/Exemplo ParamBox/Inputs/Arquivo.md",
-    "Metodos/Arquivo",
-    "Metodos/Sem título.md",
+    "Metodos/Caixa De Diálogo/MessageBox.md",
+    "Metodos/Caixa De Diálogo/FWAlertInfo.md",
+    "Metodos/Char/PADL.md",
+    "Metodos/Banco/DBGoBottom.md",
+    "Metodos/Banco/DBGoTop.md",
+    "Metodos/Banco/DBSelectArea.md",
+    "Metodos/Banco/DBSetOrder.md",
+    "Metodos/Banco/DBSkip.md",
+    "Metodos/Banco/EOF.md",
+    "Metodos/Banco/FWxFilial.md",
+    "Metodos/Banco/GetArea.md",
+    "Metodos/Banco/MPSysOpenQuery.md",
+    "Metodos/Banco/RecNo.md",
+    "Metodos/Char/STRTRAN.md",
     "Exemplos/Exemplo ParamBox/Infos/GETF_LOCALHARD+GETF_NETWORKDRIVE.md",
+    "Metodos/Char/PADR.md",
+    "Metodos/Char/SUBSTR.md",
+    "Metodos/Char/Space.md",
+    "Metodos/Data/Last_Day.md",
+    "Metodos/Data/LastDate.md",
+    "Metodos/Data/LastYDate.md",
+    "Metodos/Funcao/ProcName.md",
+    "Anotacoes/Function/parametro.md",
+    "Metodos/Funcao",
+    "Anotacoes/Function/Static Function.md",
+    "Metodos/Arquivo/fClose.md",
+    "Metodos/Arquivo/ft_fUse.md",
+    "zImages/Pasted image 20240307110304.png",
+    "Tabelas/Sem título",
+    "Metodos/Diretório",
+    "Metodos/Arquivo",
     "Exemplos/Exemplo ParamBox/Infos",
-    "Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
-    "Exemplos/Exemplo ParamBox/Inputs/MsGet.md",
-    "Exemplos/Exemplo ParamBox/Inputs/MultiGet.md",
     "zImages/Pasted image 20240301121920.png",
-    "Exemplos/Exemplo ParamBox/Inputs/Range de busca.md",
     "zImages/Pasted image 20240301120908.png",
-    "Exemplos/Exemplo ParamBox/Inputs/Checkbox.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Combo Box.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Mensagem.md",
-    "Exemplos/Exemplo ParamBox/Inputs/Montagem de expressao de filtro.md",
-    "Exemplos/Exemplo ParamBox/Inputs/MsGet password.md",
-    "Anotacoes/Lógicos/'.T.'.md",
     "zImages/Pasted image 20240301114455.png",
     "zImages/Pasted image 20240301113657.png",
     "zImages/Pasted image 20240301113252.png",
@@ -186,14 +181,11 @@
     "zImages/Pasted image 20240301110244.png",
     "zImages/Pasted image 20240301105304.png",
     "zImages/Pasted image 20240301104605.png",
-    "zImages/Pasted image 20240301101450.png",
     "Anotacoes/Laços",
     "Anotacoes/Operadores",
     "Metodos/Caixa De Diálogo",
     "Exemplos/Exemplo ParamBox/Inputs",
     "Exemplos/Exemplo ParamBox",
-    "zImages",
-    "Metodos/CMD - Power Shell",
     "Sem título.canvas"
   ]
 }

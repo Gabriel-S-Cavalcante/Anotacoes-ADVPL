@@ -1,4 +1,4 @@
-#outputBox 
+	#outputBox 
 
 
 
@@ -6,7 +6,7 @@
 Cria uma caixa de texto na tela do Usuário com o símbolo de Informação "!"
 
 # Uso
-FWAlertInfo(Texto ou variável com valor de texto, texto ou variável com o valor do título)
+[[FWAlertInfo]](Texto ou variável com valor de texto, texto ou variável com o valor do título)
 
 
 # Exemplo:
@@ -21,11 +21,11 @@ cMsg  += "Cargo: xxxxx" + [[CRLF]]
 cMsg  += "Nascimento: xx/xx/xxxx" + [[CRLF]]
 
 
-FWAlertInfo(cMsg, cTitulo)
+[[FWAlertInfo]](cMsg, cTitulo)
 
 ou
 
-FWAlertInfo("informações em String", "Dados Cadastrados:")
+[[FWAlertInfo]]("informações em String", "Dados Cadastrados:")
 
 
 
