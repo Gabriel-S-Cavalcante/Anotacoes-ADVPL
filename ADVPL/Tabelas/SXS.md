@@ -1,7 +1,0 @@
-#tabela 
-
-
-
-
-# Resumo:
-Tabelas genéricas

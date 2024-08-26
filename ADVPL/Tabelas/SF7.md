@@ -1,6 +1,0 @@
-#tabela 
-
-
-
-# Resumo:
-Excessões fiscais

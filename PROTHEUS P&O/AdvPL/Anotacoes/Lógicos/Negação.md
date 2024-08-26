@@ -1,0 +1,9 @@
+
+
+# Resumo:
+
+Operadores de negação 
+
+<> 
+\#
+!=

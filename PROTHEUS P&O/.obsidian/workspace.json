@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "347d9995a1e8e4c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50cd03337afc119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701392ca58619aad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5b1809a68846c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcaa126497f711af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c108dec0d4e1816f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71de796a269c16fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CheckFile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dacd7d6d57b41f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "3d3f81b244a2e44c",
+    "type": "split",
+    "children": [
+      {
+        "id": "555160b69cd680f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "974bfad03e0a11f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04344a5e33ba1dda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a9db43bf27bd9dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52e4927dcbd993fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "701392ca58619aad",
+  "lastOpenFiles": [
+    "GMUD/Descrição abertura.md",
+    "Untitled.md",
+    "GMUD/Images/Pasted image 20240826144806.png",
+    "GMUD/Images/Pasted image 20240826142809.png",
+    "GMUD/Images/Pasted image 20240826140803.png",
+    "GMUD/Images/Pasted image 20240826134019.png",
+    "GMUD/Images/Pasted image 20240826133436.png",
+    "GMUD/Images/Pasted image 20240826133248.png",
+    "GMUD/Images",
+    "AdvPL/Metodos/Caixa De Diálogo/Alert.md",
+    "GMUD",
+    "AdvPL/Tabelas.md",
+    "AdvPL/Tabelas/DA0.md",
+    "AdvPL/Tabelas/CC3.md",
+    "AdvPL/Tabelas/CC2.md",
+    "AdvPL/Tabelas/ACY.md",
+    "AdvPL/Metodos/Funcao/ProcName.md",
+    "AdvPL/Metodos/Funcao/AttIsMemberOf.md",
+    "AdvPL/Exemplos/Funções de Data.md",
+    "AdvPL/Exemplos/Bloco de código.md",
+    "AdvPL/Exemplos/Exemplo ParamBox/Exemplo ParamBox.md",
+    "AdvPL/Exemplos/Exemplo ParamBox/Inputs/Combo Box.md",
+    "AdvPL/Exemplos/Exemplo ParamBox/Inputs/Checkbox.md",
+    "AdvPL/Exemplos/Exemplo ParamBox/Inputs/Arquivo.md",
+    "AdvPL/Exemplos/Exemplo ParamBox/Infos/GETF_LOCALHARD+GETF_NETWORKDRIVE.md",
+    "AdvPL/Anotacoes/Bloco de código/Bloco de código.md",
+    "Temporario/Quadro de Metas.md",
+    "Temporario/Resumo.md",
+    "Temporario/Plano de Desenvolvimento.md",
+    "Chamados/QAA/Usuário bloqueado ou inativado na QAA.md",
+    "Folha de pagamento/Período aquisitivo.md",
+    "Chamados/Acessos SSMA/Acesso ao ambiente 84 (SSMA).md",
+    "Chamados/Acessos P&O/REGIONAL.md",
+    "DEV-NOTES",
+    "Chamados/Sem título",
+    "Chamados/QAA",
+    "AdvPL/Tabelas/Folha",
+    "Folha de pagamento",
+    "AdvPL/Tabelas/Mais usadas",
+    "Chamados/Acessos SSMA",
+    "Chamados/Acessos P&O"
+  ]
+}
